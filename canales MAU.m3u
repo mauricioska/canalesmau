@@ -15,15 +15,5 @@ https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
 https://www.webmedialive.org:1936/8024/8024/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Classics Toons TV
-http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=5b8dde6c-ee63-40c0-8a6c-81595c7a920c&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-
-#EXTINF:-1 tvg-ID="" tvg-name="Latino - Toon Cast" tvg-logo="" group-title="Latino",Latino - Toon Cast
-http://unlockyourtv.com:8000/live/Luis/Luis/2471.ts.m3u8
-
-#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWOORK" tvg-logo="" group-title="Infantiles",CARTOON NETWOORK
-http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/826.ts.m3u8
-
-
+#EXTINF:-1 , Toonizaki
+https://inliveserver.com:1936/m3ulive/m3ulive/playlist.m3u8
