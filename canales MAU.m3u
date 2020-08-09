@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 , DREIKO,
+#EXTINF:-1 , DREIKO
 https://tna5.bozztv.com/dreikotv/index.m3u8
 
 
@@ -29,3 +29,6 @@ http://locomotiontv.com/envivo/loco_ch_low/stream.m3u8
 
 #EXTINF:-1 tvg-name="AnimeLovingTV" tvg-id="AnimeLovingTV" tvg-logo="http://locomotiontv.com/locomotion/lovingtv.png", Anime Loving TV
 http://animeloving.net/hls/stream.m3u8
+
+#EXTINF:-1 , Toonami
+http://54.255.155.24:1935/Live/_definst_/amlst:sweetbcha1novD327L240P/playlist.m3u8
