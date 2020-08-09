@@ -1,0 +1,21 @@
+#EXTM3U
+
+
+#EXTINF:-1 , DREIKO, tvg-logo=https://scontent.fsyq1-1.fna.fbcdn.net/v/t1.0-9/27332351_1962201413821330_3010239005378375956_n.png?_nc_cat=100&_nc_sid=09cbfe&_nc_ohc=cSFUHsqIlNAAX_LR6ig&_nc_ht=scontent.fsyq1-1.fna&oh=2f8f7fcbef3df5fa4cf01bd523927d0a&oe=5F55D11F 
+
+https://tna5.bozztv.com/dreikotv/index.m3u8
+
+
+#EXTINF:-1 , ACS NETWORK
+
+https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
+
+
+#EXTINF:-1 , TELE MAS COSTA RICA
+
+https://www.webmedialive.org:1936/8024/8024/playlist.m3u8
+
+
+
+#EXTINF:-1 , LOCOMOTION
+http://locomotiontv.com/envivo/xtv/m3u
