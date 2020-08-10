@@ -14,6 +14,9 @@ https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
 
 https://www.webmedialive.org:1936/8024/8024/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://puu.sh/mw5oi/09350aa9a0.png" group-title="Infantiles",Tooncast
+http://usuarios.club/stream/Luis.Ramirez/kPo/95.m3u8
+
 
 #EXTINF:-1 , Toonizaki
 https://inliveserver.com:1936/m3ulive/m3ulive/playlist.m3u8
@@ -32,4 +35,60 @@ http://animeloving.net/hls/stream.m3u8
 
 #EXTINF:-1 , Toonami
 http://54.255.155.24:1935/Live/_definst_/amlst:sweetbcha1novD327L240P/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Toon Cast" tvg-logo="" group-title="Latino",Latino - Toon Cast
+http://unlockyourtv.com:8000/live/Luis/Luis/2471.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="CARTOON NETWOORK" tvg-logo="" group-title="Infantiles",CARTOON NETWOORK
+http://aleman.mine.nu:8000/live/PZiS6pFZmL/ZysUvDAXCk/826.ts.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/xh2Xv/015ef8314e.png" group-title="24/7",Caballeros del Zodiaco 24/7
+http://usuarios.club/stream/Luis.Ramirez/kPo/427.m3u8
+
+#EXTINF:-1 tvg-logo="https://puu.sh/y0Qge/fc4c8e50a1.png" group-title="24/7",Doraemon 24/7
+http://usuarios.club/stream/Luis.Ramirez/kPo/521.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/qGkkr/73e0bc98cc.png" group-title="24/7",Dragon Ball 24/7
+http://usuarios.club/stream/Luis.Ramirez/kPo/425.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/y0QeE/1434713f13.png" group-title="24/7",Dragon Ball GT 24/7
+http://usuarios.club/stream/Luis.Ramirez/kPo/520.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xa5W8/e0f4f580f8.png" group-title="24/7",Dragon Ball Super 24/7
+http://usuarios.club/stream/Luis.Ramirez/kPo/424.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xdUYa/051eb44501.png" group-title="24/7",Dragon Ball Z 24/7
+http://usuarios.club/stream/Luis.Ramirez/kPo/329.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/vnC7J/3851e472fd.png" group-title="24/7",El Chavo del 8 24/7
+http://usuarios.club/stream/Luis.Ramirez/kPo/400.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xh3aM/99b7a95076.png" group-title="24/7",El Coyote y el Correcaminos 24/7
+http://usuarios.club/stream/Luis.Ramirez/kPo/429.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/rePWc/83c5918f24.png" group-title="Infantiles",Cartoon Network
+http://usuarios.club/stream/Luis.Ramirez/kPo/17.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/rePWc/83c5918f24.png" group-title="Infantiles",Cartoon Network Sur
+http://usuarios.club/stream/Luis.Ramirez/kPo/737.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/rePWc/83c5918f24.png" group-title="HD",Cartoon Network HD
+http://usuarios.club/stream/Luis.Ramirez/kPo/637.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/EY93d/0993dd62a7.png" group-title="24/7",CatDog 24/7
+http://usuarios.club/stream/Luis.Ramirez/kPo/785.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/mwdGb/5d2fd767c6.png" group-title="Infantiles",CBeebies
+http://usuarios.club/stream/Luis.Ramirez/kPo/13.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xafKk/eee533500f.png" group-title="24/7",Chapulin Colorado 24/7
+http://usuarios.club/stream/Luis.Ramirez/kPo/418.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xa4qU/11783de34f.jpg" group-title="24/7",Chespirito 24/7
+http://usuarios.club/stream/Luis.Ramirez/kPo/417.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xh3mA/c21f8c4da2.png" group-title="24/7",Cantinflas 24/7
+http://usuarios.club/stream/Luis.Ramirez/kPo/428.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/DBB8S/5ed5ace0d6.png" group-title="24/7",Animaniacs 24/7
+http://usuarios.club/stream/Luis.Ramirez/kPo/677.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xh2SQ/6a026e0f97.png" group-title="24/7",Alf 24/7
+http://usuarios.club/stream/Luis.Ramirez/kPo/426.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/reSse/a7ab00d18b.png" group-title="Entretenimiento",Distrito Comedia
+http://usuarios.club/stream/Luis.Ramirez/kPo/32.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/y0Qk3/1467bbdb22.png" group-title="24/7",Looney Tunes 24/7
+http://usuarios.club/stream/Luis.Ramirez/kPo/524.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xa5Ns/e9ca28e7a5.png" group-title="24/7",Los 3 Chiflados 24/7
+http://usuarios.club/stream/Luis.Ramirez/kPo/423.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Los Años Maravillosos 24/7
+http://usuarios.club/stream/Luis.Ramirez/kPo/810.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/CtBpW/a59c90b39c.png" group-title="24/7",Los Picapiedra 24/7
+http://usuarios.club/stream/Luis.Ramirez/kPo/669.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xa3bZ/f544eec079.png" group-title="24/7",Padre de Familia 24/7
+http://usuarios.club/stream/Luis.Ramirez/kPo/416.m3u8
 
