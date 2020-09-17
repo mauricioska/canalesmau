@@ -13,7 +13,7 @@ https://cdn4.hostlagarto.com:8081/acsnetwork/index.m3u8
 #EXTINF:-1 , LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
 
-#EXTINF:-1 tvg-logo="http://envivo.grupoz.cl/cachipum/img/logo.png" group-title="INFANTILES",CACHUPUM TV
+#EXTINF:-1 tvg-logo="http://envivo.grupoz.cl/cachipum/img/logo.png" group-title="INFANTILES",CACHIPUM TV
 http://edge1.cl.grupoz.cl/cachipuntv/live/chunklist_w2057048261.m3u8
 
 
@@ -24,5 +24,3 @@ https://www.webmedialive.org:1936/8024/8024/playlist.m3u8
 #EXTINF:-1 , 38 STEREO 1
 https://rtmp.info/canal38/envivo/playlist.m3u8
 
-#EXTINF:-1 , 38 STEREO 2
-http://tvhd.rtmp.info:1935/canal/envivo/playlist.m3u8
