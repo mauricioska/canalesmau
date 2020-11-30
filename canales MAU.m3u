@@ -49,13 +49,16 @@ http://210.210.155.35/dr9445/h/h02/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/36SGwRc_3fk/hqdefault.jpg" group-title="LATINO",TeleRed Television
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1150762002.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i1.wp.com/telemascr.com/wp-content/uploads/2020/08/logo-nuevo-telemas-web-png.png?fit=1600%2C1600&ssl=1" group-title="LATINO",Telemas
+#EXTINF:-1 tvg-id="" tvg-logo="https://i1.wp.com/telemascr.com/wp-content/uploads/2020/08/logo-nuevo-telemas-web-png.png?fit=1600%2C1600&ssl=1" group-title="Costa Rica",Telemas
 https://www.webmedialive.org:1936/8024/8024/chunklist_w1944311302.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg" group-title="LATINO",Canal 38 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg" group-title="Costa Rica",Canal 38 HD
 https://rtmp.info/canal38/envivo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.telesurcostarica.com/images/Logotipo-TeleSUR-2017-500px-Blanco.png" group-title="LATINO",Telesur Costa Rica
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.telesurcostarica.com/images/Logotipo-TeleSUR-2017-500px-Blanco.png" group-title="Costa Rica",Telesur Costa Rica
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.telesurcostarica.com/images/Logotipo-TeleSUR-2017-500px-Blanco.png" group-title="Costa Rica",Telesur Costa Rica
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="httpshttps://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="LATINO",Retro Plus TV
@@ -67,22 +70,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LATINO",TICAVISION HD
 http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w939777774.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.telesurcostarica.com/images/Logotipo-TeleSUR-2017-500px-Blanco.png" group-title="LATINO",Telesur Costa Rica
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
 
-#EXTM3U
-#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="Spanish",DEFAULT=NO,FORCED=NO,URI="subtitle/es/playlist.m3u8?terminate=false&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceVersion=4.0&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&deviceType=web&deviceMake=Android%20Browser&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Android%20Browser&userId=&embedPartner=&appName=web&serverSideAds=&architecture=&paln=&includeExtendedEvents=",LANGUAGE="es"
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=997452,SUBTITLES="subs"
-997452/playlist.m3u8?terminate=false&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceVersion=4.0&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&deviceType=web&deviceMake=Android%20Browser&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Android%20Browser&userId=&embedPartner=&appName=web&serverSideAds=&architecture=&paln=&includeExtendedEvents=
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1539795,SUBTITLES="subs"
-1539795/playlist.m3u8?terminate=false&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceVersion=4.0&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&deviceType=web&deviceMake=Android%20Browser&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Android%20Browser&userId=&embedPartner=&appName=web&serverSideAds=&architecture=&paln=&includeExtendedEvents=
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2142297,SUBTITLES="subs"
-2142297/playlist.m3u8?terminate=false&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceVersion=4.0&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&deviceType=web&deviceMake=Android%20Browser&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Android%20Browser&userId=&embedPartner=&appName=web&serverSideAds=&architecture=&paln=&includeExtendedEvents=
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3063648,SUBTITLES="subs"
-3063648/playlist.m3u8?terminate=false&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceVersion=4.0&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&deviceType=web&deviceMake=Android%20Browser&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Android%20Browser&userId=&embedPartner=&appName=web&serverSideAds=&architecture=&paln=&includeExtendedEvents=
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=572723,SUBTITLES="subs"
-572723/playlist.m3u8?terminate=false&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceVersion=4.0&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&deviceType=web&deviceMake=Android%20Browser&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596&advertisingId=&deviceLat=0&deviceLon=0&deviceDNT=0&deviceModel=Android%20Browser&userId=&embedPartner=&appName=web&serverSideAds=&architecture=&paln=&includeExtendedEvents=
+
 
 
 
