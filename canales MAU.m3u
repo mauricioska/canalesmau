@@ -46,7 +46,7 @@ http://210.210.155.35/dr9445/h/h144/index.m3u8
 #EXTINF:-1 tvg-name="ID: Aniplus HD" tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" tvg-id="aniplus" group-title="ANIME",Aniplus HD
 http://210.210.155.35/dr9445/h/h02/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/36SGwRc_3fk/hqdefault.jpg" group-title="LATINO",TeleRed Television
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/36SGwRc_3fk/hqdefault.jpg" group-title="Costa Rica",TeleRed Television
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1150762002.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i1.wp.com/telemascr.com/wp-content/uploads/2020/08/logo-nuevo-telemas-web-png.png?fit=1600%2C1600&ssl=1" group-title="Costa Rica",Telemas
