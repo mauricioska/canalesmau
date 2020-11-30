@@ -70,11 +70,14 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LATINO",TICAVISION HD
 http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w939777774.m3u8
 
-#EXTINF:0,Tooncast SD (Dual) (CL)
-http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35217.m3u8
+#EXTINF:-1, SD | TOONCAST SD
+http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/569.m3u8
 
-#EXTINF:0,Boomerang SD (Dual) (CL)
-http://tvla.xyz:80/live/pkgeskfa/rBP24yhq57/35218.m3u8
+#EXTINF:-1 tvg-id="NickToons.mx" tvg-name="Nicktoons (720)" tvg-logo="https://1.bp.blogspot.com/-I4ldwtW75bg/XbCJ7UTo99I/AAAAAAAAAnA/11FY3X5w_-shKupLj0Lct2mTe7JMURH_wCLcBGAsYHQ/s200/14.png" group-title="INFANTILES",Nicktoons (720)
+http://tvpremiumhd.club/lista-gratuita/180030/tv/live.php?id=1394
+
+#EXTINF:-1 tvg-id="TooncastLatinAmerica.pa" tvg-name="Tooncast (720)" tvg-logo="https://1.bp.blogspot.com/-ilF13a10Ezk/XbCJ7kw7jxI/AAAAAAAAAnE/7IuCyG1j-J0vgluvh4osCiMq6zQUmv8pwCLcBGAsYHQ/s200/15.png" group-title="INFANTILES",Tooncast (720)
+http://tvpremiumhd.club/lista-gratuita/180030/tv/live.php?id=1396
 
 
 
