@@ -22,14 +22,15 @@ http://45.77.154.172:8080/hls/show.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://64.media.tumblr.com/bd3cef928ee580e1cdb4462b4c8f286d/4c70cda010a80fde-23/s75x75_c1/ef0c8fcb7188fbf1f77cc822632d2515490a56c7.png" group-title="KIDS",Toonizaki
 https://inliveserver.com:1936/m3ulive/m3ulive/chunklist_w1988258476.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/published/imagen-final-2.png?1589394562" group-title="LATINO",Mi TV Television Clasica
-http://162.244.80.176:8081/abr/stream/live/livestream_source/chunks.m3u8
+#EXTINF:-1 tvg-name="ID: Animax HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" tvg-id="animax" group-title="ANIME",Animax HD
+http://210.210.155.35/dr9445/h/h144/index.m3u8
+
+#EXTINF:-1 tvg-name="ID: Aniplus HD" tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" tvg-id="aniplus" group-title="ANIME",Aniplus HD
+http://210.210.155.35/dr9445/h/h02/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="LATINO",EvaStream TV
 https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/chunklist_w1878079756.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://tvretropalmares.com/img/logo.png" group-title="LATINO",TV Retro Palmares
-http://tvretropalmares.com:8090/hls/envivo.m3u8
 
 #EXTINF:-1 tvg-id="Boing.TV" group-title="MEDIASET" tvg-logo="https://pbs.twimg.com/media/EEcRsEsW4AAhox7.png" group-title="KIDS",Boing HD
 https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
@@ -40,21 +41,17 @@ https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/index_1500_av-p.m3u8?sd
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.m3u.cl/logo/110679_El_Chavo_TV.png" group-title="LATINO",El Chavo TV
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w276108685.m3u8
 
-#EXTINF:-1 tvg-logo="https://puu.sh/xafKk/eee533500f.png" group-title="Infantiles", Chapulin Colorado 24/7
-http://iptv.wtf:25461/live/dWHCeKr6w/4GpR1wrs18/11450.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.mi-television.com/uploads/1/0/3/0/103099212/published/imagen-final-2.png?1589394562" group-title="LATINO",Mi TV Television Clasica
+http://162.244.80.176:8081/abr/stream/live/livestream_source/chunks.m3u8
 
-
-#EXTINF:-1 tvg-name="ID: Animax HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" tvg-id="animax" group-title="ANIME",Animax HD
-http://210.210.155.35/dr9445/h/h144/index.m3u8
-
-#EXTINF:-1 tvg-name="ID: Aniplus HD" tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" tvg-id="aniplus" group-title="ANIME",Aniplus HD
-http://210.210.155.35/dr9445/h/h02/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/36SGwRc_3fk/hqdefault.jpg" group-title="Costa Rica",TeleRed Television
-http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1150762002.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://tvretropalmares.com/img/logo.png" group-title="LATINO",TV Retro Palmares
+http://tvretropalmares.com:8090/hls/envivo.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i1.wp.com/telemascr.com/wp-content/uploads/2020/08/logo-nuevo-telemas-web-png.png?fit=1600%2C1600&ssl=1" group-title="Costa Rica",Telemas
 https://www.webmedialive.org:1936/8024/8024/chunklist_w1944311302.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/36SGwRc_3fk/hqdefault.jpg" group-title="Costa Rica",TeleRed Television
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1150762002.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg" group-title="Costa Rica",Canal 38 HD
 https://rtmp.info/canal38/envivo/playlist.m3u8
