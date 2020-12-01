@@ -73,11 +73,11 @@ http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w939777774.m3u8
 #EXTINF:-1, SD | TOONCAST SD
 http://23.237.122.154:2999/live/Bud$Tv2801/Web$$20/569.m3u8
 
-#EXTINF:-1 tvg-id="NickToons.mx" tvg-name="Nicktoons (720)" tvg-logo="https://1.bp.blogspot.com/-I4ldwtW75bg/XbCJ7UTo99I/AAAAAAAAAnA/11FY3X5w_-shKupLj0Lct2mTe7JMURH_wCLcBGAsYHQ/s200/14.png" group-title="INFANTILES",Nicktoons (720)
-http://tvpremiumhd.club/lista-gratuita/180030/tv/live.php?id=1394
+#EXTINF:-1, Classics Toons TV
+http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=5b8dde6c-ee63-40c0-8a6c-81595c7a920c&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:-1 tvg-id="TooncastLatinAmerica.pa" tvg-name="Tooncast (720)" tvg-logo="https://1.bp.blogspot.com/-ilF13a10Ezk/XbCJ7kw7jxI/AAAAAAAAAnE/7IuCyG1j-J0vgluvh4osCiMq6zQUmv8pwCLcBGAsYHQ/s200/15.png" group-title="INFANTILES",Tooncast (720)
-http://tvpremiumhd.club/lista-gratuita/180030/tv/live.php?id=1396
+#EXTINF:-1,SPACETOON
+http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
 
 
 
