@@ -72,7 +72,14 @@ http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w939777774.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png?w=117" group-title="KIDS",Nick Clasico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture&buildVersion&clientTime&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596&fbclid=IwAR1GGKxiPcP70KNXOHE2jLT0GCw549WCCinpdVTzkYAMRv2C4Y1walWw9t4
 
+#EXTINF:-1 tvg-ID="" tvg-name="Latino - Toon Cast" tvg-logo="" group-title="Latino",Latino - Toon Cast
+http://unlockyourtv.com:8000/live/Luis/Luis/2471.ts.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="The Simpsons 24/7" tvg-logo="http://www.cartoonswallpapers.net/wallpapers/simpsons-family-introduction-hd-wallpaper-tablet.jpg" group-title="24/7",The Simpsons 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/800.ts.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="Dragon Ball Z 24/7" tvg-logo="https://img00.deviantart.net/1958/i/2011/327/1/8/logos_007___dragon_ball_007_by_vicdbz-d2n5cey.png" group-title="24/7",Dragon Ball Z 24/7
+http://unlockyourtv.com:8000/live/Luis/Luis/753.ts.m3u8
 
 
 
