@@ -1,8 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil", Cachipum TV
+http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="PUERTO RICO",ACS NETWORK TV
 https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dreikotv.online/wp-content/uploads/2020/05/cropped-logo-dreiko-arts-TV-2020-1.png" group-title="KIDS",Dreiko TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w688163672.m3u8
 
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="ANIME",Locomotion (Opt 1)
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
@@ -12,9 +17,6 @@ http://locomotiontv.com/envivo/loco_ch_low/stream.m3u8
 
 #EXTINF:-1 tvg-name="AnimeLovingTV" tvg-id="AnimeLovingTV" tvg-logo="http://locomotiontv.com/locomotion/lovingtv.png" group-title="ANIME",Anime Loving tv
 http://animeloving.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dreikotv.online/wp-content/uploads/2020/05/cropped-logo-dreiko-arts-TV-2020-1.png" group-title="KIDS",Dreiko TV
-https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w688163672.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://kanadetv.com/imgs/loco/logo_white.png" group-title="KIDS",Kanade TV
 http://45.77.154.172:8080/hls/show.m3u8
@@ -71,6 +73,13 @@ http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w939777774.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png?w=117" group-title="KIDS",Nick Clasico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture&buildVersion&clientTime&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596&fbclid=IwAR1GGKxiPcP70KNXOHE2jLT0GCw549WCCinpdVTzkYAMRv2C4Y1walWw9t4
+
+
+#EXTINF:-1, Classics Toons TV
+http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8?deviceType=%2C%2C&deviceMake=&deviceModel=&sid=5b8dde6c-ee63-40c0-8a6c-81595c7a920c&deviceId=29556502-e2a5-45de-8deb-3b3dfa36b936_e62c9abb601b4ed5&deviceVersion=7.1.1_25&appVersion=3.5.1&deviceDNT=0&userId=&advertisingId=6e7a218c-1bf7-46bf-b486-0902a3cd5a1c&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+
+#EXTINF:-1,SPACETOON
+http://210.210.155.35/x6bnqe/s/s80/index2.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="Latino - Toon Cast" tvg-logo="" group-title="Latino",Latino - Toon Cast
 http://unlockyourtv.com:8000/live/Luis/Luis/2471.ts.m3u8
