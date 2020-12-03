@@ -1,45 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil", Cachipum TV
-http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="PUERTO RICO",ACS NETWORK TV
-https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dreikotv.online/wp-content/uploads/2020/05/cropped-logo-dreiko-arts-TV-2020-1.png" group-title="KIDS",Dreiko TV
-https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w688163672.m3u8
-
-#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="ANIME",Locomotion (Opt 1)
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-
-#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="ANIME",Locomotion  (LQ)
-http://locomotiontv.com/envivo/loco_ch_low/stream.m3u8
-
-#EXTINF:-1 tvg-name="AnimeLovingTV" tvg-id="AnimeLovingTV" tvg-logo="http://locomotiontv.com/locomotion/lovingtv.png" group-title="ANIME",Anime Loving tv
-http://animeloving.net/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://kanadetv.com/imgs/loco/logo_white.png" group-title="KIDS",Kanade TV
-http://45.77.154.172:8080/hls/show.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://64.media.tumblr.com/bd3cef928ee580e1cdb4462b4c8f286d/4c70cda010a80fde-23/s75x75_c1/ef0c8fcb7188fbf1f77cc822632d2515490a56c7.png" group-title="KIDS",Toonizaki
-https://inliveserver.com:1936/m3ulive/m3ulive/chunklist_w1988258476.m3u8
-
-#EXTINF:-1 tvg-name="ID: Animax HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" tvg-id="animax" group-title="ANIME",Animax HD
-http://210.210.155.35/dr9445/h/h144/index.m3u8
-
-#EXTINF:-1 tvg-name="ID: Aniplus HD" tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" tvg-id="aniplus" group-title="ANIME",Aniplus HD
-http://210.210.155.35/dr9445/h/h02/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="LATINO",EvaStream TV
-https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/chunklist_w1878079756.m3u8
-
-
-#EXTINF:-1 tvg-id="Boing.TV" group-title="MEDIASET" tvg-logo="https://pbs.twimg.com/media/EEcRsEsW4AAhox7.png" group-title="KIDS",Boing HD
-https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="" tvg-logo="https://estaticos.tdt1.com/canales/logoclantve.jpg" group-title="KIDS",Clan HD
-https://hlsliveamdgl1-lh.akamaihd.net/i/hlslive_1@356291/index_1500_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.m3u.cl/logo/110679_El_Chavo_TV.png" group-title="LATINO",El Chavo TV
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w276108685.m3u8
 
@@ -55,18 +15,18 @@ https://www.webmedialive.org:1936/8024/8024/chunklist_w1944311302.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/36SGwRc_3fk/hqdefault.jpg" group-title="Costa Rica",TeleRed Television
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1150762002.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg" group-title="Costa Rica",Canal 38 HD
-https://rtmp.info/canal38/envivo/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.telesurcostarica.com/images/Logotipo-TeleSUR-2017-500px-Blanco.png" group-title="Costa Rica",Telesur Costa Rica
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.m3u.cl/logo/98871_EvaStream.png" group-title="LATINO",EvaStream TV
+https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/chunklist_w1878079756.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="httpshttps://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="LATINO",Retro Plus TV 2
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1772402433.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="httpshttps://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="LATINO",Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1742796167.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="httpshttps://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="LATINO",Retro Plus TV 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1772402433.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://yt3.ggpht.com/-k5QO6YHdanw/AAAAAAAAAAI/AAAAAAAAAAA/UTcqO9gj0z0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="LATINO",TICAVISION HD
 http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w939777774.m3u8
@@ -74,7 +34,41 @@ http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w939777774.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png?w=117" group-title="KIDS",Nick Clasico
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture&buildVersion&clientTime&deviceDNT=0&deviceId=f354a4d6-9455-43c5-b1dc-937451d5c2fd&deviceMake=Android%20Browser&deviceModel=Android%20Browser&deviceType=web&deviceVersion=4.0&sid=0f6f4a5c-f300-43bc-b926-49419ffdc596&fbclid=IwAR1GGKxiPcP70KNXOHE2jLT0GCw549WCCinpdVTzkYAMRv2C4Y1walWw9t4
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg" group-title="Costa Rica",Canal 38 HD
+https://rtmp.info/canal38/envivo/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://photocall.tv/images/cachipum.png" group-title="Infantil", Cachipum TV
+http://edge1.cl.grupoz.cl/cachipuntv/live/.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ACS NETWORK TV" tvg-logo="http://acsnetwork.tv/uploads/4/4/9/7/4497966/8277950.png" group-title="PUERTO RICO",ACS NETWORK TV
+https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dreikotv.online/wp-content/uploads/2020/05/cropped-logo-dreiko-arts-TV-2020-1.png" group-title="KIDS",Dreiko TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w688163672.m3u8
+
+#EXTINF:-1 tvg-name="AnimeLovingTV" tvg-id="AnimeLovingTV" tvg-logo="http://locomotiontv.com/locomotion/lovingtv.png" group-title="ANIME",Anime Loving tv
+http://animeloving.net/hls/stream.m3u8
+
+#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="ANIME",Locomotion (Opt 1)
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+
+#EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="ANIME",Locomotion  (LQ)
+http://locomotiontv.com/envivo/loco_ch_low/stream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://kanadetv.com/imgs/loco/logo_white.png" group-title="KIDS",Kanade TV
+http://45.77.154.172:8080/hls/show.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://64.media.tumblr.com/bd3cef928ee580e1cdb4462b4c8f286d/4c70cda010a80fde-23/s75x75_c1/ef0c8fcb7188fbf1f77cc822632d2515490a56c7.png" group-title="KIDS",Toonizaki
+https://inliveserver.com:1936/m3ulive/m3ulive/chunklist_w1988258476.m3u8
+
+#EXTINF:-1 tvg-name="ID: Animax HD" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/1/12/Animax_HD_logo.png/revision/latest?cb=20150330224645" tvg-id="animax" group-title="ANIME",Animax HD
+http://210.210.155.35/dr9445/h/h144/index.m3u8
+
+#EXTINF:-1 tvg-name="ID: Aniplus HD" tvg-logo="https://images.sgcafe.net/2017/08/Aniplus-HD.jpg" tvg-id="aniplus" group-title="ANIME",Aniplus HD
+http://210.210.155.35/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1 tvg-id="Boing.TV" group-title="MEDIASET" tvg-logo="https://pbs.twimg.com/media/EEcRsEsW4AAhox7.png" group-title="KIDS",Boing HD
+https://linear01-i.akamaihd.net/hls/live/837814/boing/01.m3u8
 
 
 
